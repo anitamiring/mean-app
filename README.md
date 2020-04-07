@@ -1,11 +1,8 @@
 # mean-app
 
 **M** - MongoDB
-
 **E** - Express.js
-
 **A** - Angular 
-
 **N** - Node.js
 
 <p align="center">
