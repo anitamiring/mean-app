@@ -21,3 +21,7 @@
   <img width="600" height=auto src="Images/MongoDB.png">
 </p>
 
+<p align="center">
+  <img width="600" height=auto src="Images/MeanStack.png">
+</p>
+
