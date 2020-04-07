@@ -1,13 +1,14 @@
 # mean-app
 
-MEAN app
+**M** - MongoDB
 
-M - MongoDB
-E - Express.js
-A - Angular 
-N - Node.js
+**E** - Express.js
+
+**A** - Angular 
+
+**N** - Node.js
 
 <p align="center">
-  <img width="400" height=auto src="Images/Angular.png">
+  <img width="600" height=auto src="Images/Angular.png">
 </p>
 
