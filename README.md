@@ -8,6 +8,6 @@ A - Angular
 N - Node.js
 
 <p align="center">
-  <img width="400" height=auto src="/Images/Angular.png">
+  <img width="400" height=auto src="Images/Angular.png">
 </p>
 
