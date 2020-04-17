@@ -2,7 +2,7 @@ import { Component, OnInit} from '@angular/core';
 import { NgForm } from '@angular/forms'
 
 import { PostService } from '../posts.service';
-import { from } from 'rxjs';
+import { form } from 'rxjs';
 
 @Component({
   selector: 'app-post-create',
@@ -23,6 +23,7 @@ export class PostCreateComponent implements OnInit {
     if(form.invalid){
       return;
     }
+    console.log('onAddPost');
     this.postService.addPost(form.value.title, form.value.content);
     form.resetForm();
   }
